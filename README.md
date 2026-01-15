@@ -1,1 +1,1 @@
-# ch.github.io
+https://orteil.dashnet.org/cookieclicker/
